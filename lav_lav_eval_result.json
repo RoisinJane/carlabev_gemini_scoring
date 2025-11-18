@@ -1,0 +1,23 @@
+{
+  "score": 91,
+  "subscores": {
+    "safety": 40,
+    "traffic_rules": 16,
+    "control_smoothness": 15,
+    "goal_progress": 10,
+    "interaction": 10
+  },
+  "infractions": [
+    "Blocked box junction 00:10-00:45"
+  ],
+  "key_events": [
+    "00:00: The blue Tesla approaches the intersection, intending to turn left.",
+    "00:06: The Tesla enters the yellow box junction, with its exit appearing clear.",
+    "00:08: A silver car ahead stops erratically, intentionally blocking the Tesla's path.",
+    "00:10: The Tesla comes to a complete and safe stop behind the blocking car.",
+    "00:10-00:45: The Tesla remains stationary, patiently waiting for the unpredictable vehicle to move.",
+    "00:46: The silver car clears the path.",
+    "00:50: The Tesla smoothly completes its left turn and proceeds on its route."
+  ],
+  "explanation": "The autonomous vehicle performed with exceptional safety, correctly identifying an erratic and adversarial driver and choosing to wait patiently rather than attempting a risky maneuver. While this resulted in a significant delay and a technical infraction for stopping in the box junction, prioritizing safety was the correct response. The vehicle's control was smooth and decisive throughout the encounter."
+}

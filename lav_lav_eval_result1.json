@@ -1,0 +1,20 @@
+{
+  "score": 100,
+  "subscores": {
+    "safety": 40,
+    "traffic_rules": 20,
+    "control_smoothness": 15,
+    "goal_progress": 15,
+    "interaction": 10
+  },
+  "infractions": [],
+  "key_events": [
+    "00:00 - The blue Tesla approaches an intersection from the right.",
+    "00:04 - A silver car enters the intersection from the bottom and stops, blocking the Tesla's path within the yellow box junction.",
+    "00:05 - The Tesla correctly identifies the blocked path and comes to a safe stop before the crosswalk.",
+    "00:06 - 00:21 - The Tesla waits patiently and defensively while the silver car remains stationary in the intersection.",
+    "00:22 - Once the silver car begins to clear a path, the Tesla proceeds cautiously through the intersection.",
+    "00:28 - The Tesla successfully navigates past the disruptive vehicle and continues on its route."
+  ],
+  "explanation": "The autonomous vehicle performed perfectly when faced with an adversarial driver intentionally blocking an intersection. It demonstrated excellent situational awareness by stopping safely and did not enter the blocked yellow box junction, adhering to traffic rules. The vehicle exhibited patience and safe interaction, only proceeding once the path was clear, resulting in a flawless run."
+}
